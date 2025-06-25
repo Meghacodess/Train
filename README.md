@@ -49,12 +49,6 @@ Represents the "centre of mass" of the spectrum. It indicates whether the sound 
 
 ---
 
-##  Class Distribution Analysis
-
-After combining both datasets:
-
----
-
 ## Model Pipeline <br>
 
 1)Label Encoding
