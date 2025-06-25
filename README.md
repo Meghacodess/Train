@@ -146,9 +146,8 @@ Disgust	0.66	🔻 Lowest but improved. Still affected by limited training sample
 ### Conclusion <br>
 The MLPClassifier performed the **best** overall among the models tested, crossing 76% in all major metrics. Its deep learning nature allowed it to model complex non-linearities in audio signals more effectively than Random Forest or XGBoost.
 
-
-
-
+# Live Demo: 
+[Click here to open the app](https://sl8vhxbwsxbnfez5ht5mbc.streamlit.app/)
 
 
 
